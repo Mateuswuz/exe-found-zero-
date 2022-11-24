@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sk exe assets.png">
+<SubTexture name="sk exe YOU SUCK0000" x="610" y="948" width="486" height="619" frameX="0" frameY="0" frameWidth="486" frameHeight="620" />
+<SubTexture name="sk exe YOU SUCK0001" x="1590" y="613" width="451" height="609" frameX="0" frameY="-11" frameWidth="486" frameHeight="620" />
+<SubTexture name="sk exe YOU SUCK0002" x="1590" y="0" width="456" height="613" frameX="0" frameY="-7" frameWidth="486" frameHeight="620" />
+<SubTexture name="sk exe down0000" x="2953" y="2184" width="478" height="525" frameX="0" frameY="-13" frameWidth="479" frameHeight="540" />
+<SubTexture name="sk exe down0001" x="2953" y="1647" width="470" height="537" frameX="-4" frameY="-2" frameWidth="479" frameHeight="540" />
+<SubTexture name="sk exe ha0000" x="2497" y="1132" width="391" height="525" frameX="-38" frameY="-94" frameWidth="610" frameHeight="948" />
+<SubTexture name="sk exe ha0001" x="2497" y="1132" width="391" height="525" frameX="0" frameY="0" frameWidth="610" frameHeight="948" />
+<SubTexture name="sk exe ha0002" x="2953" y="1104" width="362" height="543" frameX="-69" frameY="-76" frameWidth="610" frameHeight="948" />
+<SubTexture name="sk exe ha0003" x="0" y="948" width="610" height="633" frameX="0" frameY="0" frameWidth="610" frameHeight="948" />
+<SubTexture name="sk exe ha0004" x="0" y="0" width="610" height="948" frameX="0" frameY="0" frameWidth="610" frameHeight="948" />
+<SubTexture name="sk exe ha0005" x="0" y="948" width="610" height="633" frameX="0" frameY="0" frameWidth="610" frameHeight="948" />
+<SubTexture name="sk exe ha0006" x="0" y="0" width="610" height="948" frameX="0" frameY="0" frameWidth="610" frameHeight="948" />
+<SubTexture name="sk exe ha0007" x="0" y="0" width="610" height="948" frameX="0" frameY="0" frameWidth="610" frameHeight="948" />
+<SubTexture name="sk exe idle0000" x="2953" y="554" width="461" height="550" frameX="-2" frameY="-15" frameWidth="463" frameHeight="568" />
+<SubTexture name="sk exe idle0001" x="0" y="2156" width="459" height="560" frameX="-3" frameY="-6" frameWidth="463" frameHeight="568" />
+<SubTexture name="sk exe idle0002" x="2497" y="0" width="456" height="566" frameX="-3" frameY="-1" frameWidth="463" frameHeight="568" />
+<SubTexture name="sk exe idle0003" x="1861" y="1581" width="458" height="567" frameX="0" frameY="0" frameWidth="463" frameHeight="568" />
+<SubTexture name="sk exe idle0004" x="946" y="1581" width="457" height="568" frameX="0" frameY="0" frameWidth="463" frameHeight="568" />
+<SubTexture name="sk exe laugh0000" x="0" y="2716" width="599" height="550" frameX="0" frameY="-4" frameWidth="599" frameHeight="555" />
+<SubTexture name="sk exe laugh0001" x="2953" y="0" width="577" height="554" frameX="-20" frameY="-1" frameWidth="599" frameHeight="555" />
+<SubTexture name="sk exe laugh0002" x="926" y="2156" width="580" height="555" frameX="-17" frameY="0" frameWidth="599" frameHeight="555" />
+<SubTexture name="sk exe left0000" x="599" y="2716" width="599" height="550" frameX="0" frameY="-4" frameWidth="599" frameHeight="555" />
+<SubTexture name="sk exe left0001" x="1506" y="2156" width="580" height="555" frameX="-17" frameY="0" frameWidth="599" frameHeight="555" />
+<SubTexture name="sk exe right0000" x="466" y="1581" width="480" height="574" frameX="0" frameY="0" frameWidth="480" frameHeight="575" />
+<SubTexture name="sk exe right0001" x="0" y="1581" width="466" height="575" frameX="0" frameY="0" frameWidth="480" frameHeight="575" />
+<SubTexture name="sk exe start YOU SUCK0000" x="946" y="1581" width="457" height="568" frameX="0" frameY="-52" frameWidth="494" frameHeight="620" />
+<SubTexture name="sk exe start YOU SUCK0001" x="2497" y="566" width="451" height="566" frameX="-7" frameY="-53" frameWidth="494" frameHeight="620" />
+<SubTexture name="sk exe start YOU SUCK0002" x="1096" y="948" width="487" height="619" frameX="-7" frameY="0" frameWidth="494" frameHeight="620" />
+<SubTexture name="sk exe start YOU SUCK0003" x="2046" y="0" width="451" height="609" frameX="-8" frameY="-11" frameWidth="494" frameHeight="620" />
+<SubTexture name="sk exe start YOU SUCK0004" x="1590" y="0" width="456" height="613" frameX="-8" frameY="-7" frameWidth="494" frameHeight="620" />
+<SubTexture name="sk exe start laugh0000" x="1403" y="1581" width="458" height="568" frameX="-140" frameY="0" frameWidth="602" frameHeight="570" />
+<SubTexture name="sk exe start laugh0001" x="459" y="2156" width="467" height="556" frameX="-135" frameY="-11" frameWidth="602" frameHeight="570" />
+<SubTexture name="sk exe start laugh0002" x="0" y="2716" width="599" height="550" frameX="0" frameY="-19" frameWidth="602" frameHeight="570" />
+<SubTexture name="sk exe start laugh0003" x="2953" y="0" width="577" height="554" frameX="-20" frameY="-16" frameWidth="602" frameHeight="570" />
+<SubTexture name="sk exe start laugh0004" x="2086" y="2156" width="580" height="555" frameX="-17" frameY="-15" frameWidth="602" frameHeight="570" />
+<SubTexture name="sk exe up0000" x="610" y="0" width="490" height="690" frameX="0" frameY="0" frameWidth="495" frameHeight="690" />
+<SubTexture name="sk exe up0001" x="1100" y="0" width="490" height="647" frameX="-3" frameY="-43" frameWidth="495" frameHeight="690" />
+</TextureAtlas>

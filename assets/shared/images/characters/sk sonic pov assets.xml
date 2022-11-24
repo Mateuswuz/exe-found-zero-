@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sk sonic pov assets.png">
+<SubTexture name="sonic pov down0000" x="3989" y="3695" width="735" height="768" frameX="0" frameY="-17" frameWidth="735" frameHeight="786" />
+<SubTexture name="sonic pov down0001" x="4489" y="854" width="727" height="783" frameX="-5" frameY="-2" frameWidth="735" frameHeight="786" />
+<SubTexture name="sonic pov idle0000" x="3783" y="867" width="678" height="858" frameX="0" frameY="-21" frameWidth="678" frameHeight="881" />
+<SubTexture name="sonic pov idle0001" x="0" y="2822" width="670" height="873" frameX="-5" frameY="-6" frameWidth="678" frameHeight="881" />
+<SubTexture name="sonic pov idle0002" x="1312" y="1943" width="661" height="877" frameX="-10" frameY="-3" frameWidth="678" frameHeight="881" />
+<SubTexture name="sonic pov idle0003" x="2466" y="880" width="656" height="879" frameX="-13" frameY="-1" frameWidth="678" frameHeight="881" />
+<SubTexture name="sonic pov idle0004" x="0" y="1063" width="656" height="880" frameX="-13" frameY="0" frameWidth="678" frameHeight="881" />
+<SubTexture name="sonic pov left0000" x="4489" y="0" width="729" height="854" frameX="0" frameY="-16" frameWidth="730" frameHeight="871" />
+<SubTexture name="sonic pov left0001" x="2010" y="2822" width="703" height="871" frameX="-23" frameY="0" frameWidth="730" frameHeight="871" />
+<SubTexture name="sonic pov left0002" x="2713" y="2822" width="706" height="867" frameX="-21" frameY="-3" frameWidth="730" frameHeight="871" />
+<SubTexture name="sonic pov mad down0000" x="5218" y="0" width="735" height="768" frameX="0" frameY="-17" frameWidth="735" frameHeight="786" />
+<SubTexture name="sonic pov mad down0001" x="4489" y="1637" width="727" height="783" frameX="-5" frameY="-2" frameWidth="735" frameHeight="786" />
+<SubTexture name="sonic pov mad idle0000" x="3783" y="1725" width="677" height="858" frameX="0" frameY="-21" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0001" x="3783" y="2583" width="677" height="858" frameX="0" frameY="-21" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0002" x="670" y="2822" width="670" height="873" frameX="-4" frameY="-6" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0003" x="1340" y="2822" width="670" height="873" frameX="-4" frameY="-6" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0004" x="1973" y="1943" width="661" height="877" frameX="-9" frameY="-3" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0005" x="3122" y="0" width="661" height="877" frameX="-9" frameY="-3" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0006" x="0" y="1943" width="656" height="879" frameX="-12" frameY="-1" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0007" x="656" y="1943" width="656" height="879" frameX="-12" frameY="-1" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0008" x="656" y="1063" width="656" height="880" frameX="-12" frameY="0" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0009" x="1312" y="1063" width="656" height="880" frameX="-12" frameY="0" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0010" x="2466" y="0" width="656" height="880" frameX="-12" frameY="0" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0011" x="656" y="1063" width="656" height="880" frameX="0" frameY="0" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0012" x="1312" y="1063" width="656" height="880" frameX="0" frameY="0" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad idle0013" x="2466" y="0" width="656" height="880" frameX="0" frameY="0" frameWidth="677" frameHeight="881" />
+<SubTexture name="sonic pov mad left0000" x="0" y="3695" width="731" height="854" frameX="-1" frameY="-16" frameWidth="732" frameHeight="871" />
+<SubTexture name="sonic pov mad left0001" x="3783" y="0" width="706" height="867" frameX="-23" frameY="-3" frameWidth="732" frameHeight="871" />
+<SubTexture name="sonic pov mad right0000" x="2333" y="3695" width="828" height="812" frameX="0" frameY="-11" frameWidth="828" frameHeight="824" />
+<SubTexture name="sonic pov mad right0001" x="731" y="3695" width="801" height="823" frameX="-3" frameY="0" frameWidth="828" frameHeight="824" />
+<SubTexture name="sonic pov mad up0000" x="0" y="0" width="620" height="1063" frameX="-4" frameY="-9" frameWidth="624" frameHeight="1072" />
+<SubTexture name="sonic pov mad up0001" x="620" y="0" width="613" height="998" frameX="-1" frameY="-73" frameWidth="624" frameHeight="1072" />
+<SubTexture name="sonic pov right0000" x="3161" y="3695" width="828" height="812" frameX="0" frameY="-11" frameWidth="828" frameHeight="824" />
+<SubTexture name="sonic pov right0001" x="1532" y="3695" width="801" height="823" frameX="-3" frameY="0" frameWidth="828" frameHeight="824" />
+<SubTexture name="sonic pov up0000" x="1233" y="0" width="620" height="967" frameX="-4" frameY="0" frameWidth="624" frameHeight="967" />
+<SubTexture name="sonic pov up0001" x="1853" y="0" width="613" height="951" frameX="-1" frameY="-15" frameWidth="624" frameHeight="967" />
+</TextureAtlas>
